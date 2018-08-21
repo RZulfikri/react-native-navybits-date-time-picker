@@ -7,15 +7,24 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RZulfikri/react-native-navybits-date-time-picker.git"
+  },
   "keywords": [
-    "react-native"
+    "react-native",
+    "date-picker",
+    "time-picker",
+    "android-interval-time-picker"
   ],
-  "homepage": "https://github.com/HananeAlSamrout/react-native-navybits-date-time-picker",
   "author": "Hanane AL SAMROUT",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RZulfikri/react-native-navybits-date-time-picker/issues"
+  },
   "peerDependencies": {
     "react-native": "^0.41.2",
     "react-native-windows": "0.41.0-rc.1"
-
-  }
+  },
+  "homepage": "https://github.com/RZulfikri/react-native-navybits-date-time-picker#readme"
 }
